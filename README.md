@@ -1,5 +1,11 @@
 # Reverse-the-Digits
-**Reverse the Digits**
+
+**write a program to reverse the digits of a given two-digit number.**
+
+Input: 21
+
+Output: 12
+
 Let's break down the solution for the coding question 'Reverse the Digits' into simple steps.
 
 Step 1: Read the number
