@@ -3,7 +3,8 @@
 Let's break down the solution for the coding question 'Reverse the Digits' into simple steps.
 
 Step 1: Read the number
-First, we need to read the two-digit number from the user. We'll use the input() function to get the number as a string.
+First, we need to read the two-digit number from the user. We'll use the input() function to get the number as a string.0
+
 Step 2: Get individual digits
 Now, we'll extract each digit from the given number. Since word is a string, we can access its characters using their positions (starting from 0).
 
